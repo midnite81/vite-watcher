@@ -1,0 +1,24 @@
+{
+    "name": "vite-watcher",
+    "version": "1.0.0",
+    "description": "A CLI tool to watch and automatically build Vite projects",
+    "main": "src/index.js",
+    "bin": {
+      "vite-watch": "./bin/vite-watch.js"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "vite",
+      "watch",
+      "build",
+      "cli"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "chokidar": "^3.5.3",
+      "lodash.debounce": "^4.0.8"
+    }
+  }

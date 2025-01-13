@@ -1,6 +1,6 @@
 # Vite Watcher
 
-A CLI tool that watches your Vite project files and automatically triggers rebuilds when changes are detected.
+A CLI tool that watches your Vite project files and automatically triggers rebuilds (vite build) when changes are detected.
 
 ## Installation
 
